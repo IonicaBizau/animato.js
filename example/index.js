@@ -10,7 +10,7 @@ Animato({
   , y: 4
 }).duration(1000).step(function (c) {
     console.log(c);
-}).run(function () {
+}).start(function () {
     console.log("complete");
 });
 // =>
@@ -138,7 +138,7 @@ console.log(frames.toArray());
 // Use frames in animation
 frames.step(function (c) {
     console.log(c);
-}).run(function () {
+}).start(function () {
     console.log("Complete.");
 });
 // =>
