@@ -1,0 +1,32 @@
+{
+  "name": "animato",
+  "version": "1.0.0",
+  "description": "Simple way to animate anything (even simple values).",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/animato.js.git"
+  },
+  "keywords": [
+    "animate",
+    "variables",
+    "step",
+    "complete"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/animato.js/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/animato.js#readme",
+  "dependencies": {
+    "raf": "^3.1.0"
+  },
+  "devDependencies": {}
+}
