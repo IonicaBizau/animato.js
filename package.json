@@ -28,5 +28,8 @@
   "dependencies": {
     "raf": "^3.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "blah": {
+      "h_img": "http://i.imgur.com/e1NrEcY.png"
+  }
 }

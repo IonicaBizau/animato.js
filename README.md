@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+[![animato](http://i.imgur.com/e1NrEcY.png)](#)
+
 # animato [![Donate now][donate-now]][paypal-donations]
 
 Simple way to animate anything (even simple values).
