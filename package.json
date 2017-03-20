@@ -1,6 +1,6 @@
 {
   "name": "animato",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "description": "Simple way to animate anything (even simple values).",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,7 @@
     "step",
     "complete"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/animato.js/issues"
@@ -37,12 +37,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
