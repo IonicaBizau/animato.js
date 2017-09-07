@@ -24,6 +24,7 @@ Animato({
 ```
 
 #### Params
+
 - **Object** `from`: The source object.
 - **Object** `to`: The target object.
 - **Number** `time`: The animation duration (milliseconds).
@@ -37,6 +38,7 @@ Animato({
 Sets the target object.
 
 #### Params
+
 - **Object** `to`: The target object.
 
 #### Return
@@ -46,6 +48,7 @@ Sets the target object.
 Sets the animation duration.
 
 #### Params
+
 - **Number** `duration`: The animation duration (milliseconds).
 
 #### Return
@@ -55,6 +58,7 @@ Sets the animation duration.
 Sets the step function. This function will be called every time when the animation changes.
 
 #### Params
+
 - **Function** `fn`: The step function.
 
 #### Return
@@ -64,6 +68,7 @@ Sets the step function. This function will be called every time when the animati
 Sets the complete function. This function will be called when the animation is done.
 
 #### Params
+
 - **Function** `fn`: The complete function.
 
 #### Return
@@ -73,6 +78,7 @@ Sets the complete function. This function will be called when the animation is d
 Starts the animation.
 
 #### Params
+
 - **Function** `fn`: The complete function.
 
 #### Return
@@ -82,6 +88,7 @@ Starts the animation.
 Generate frames for two given objects (source and target).
 
 #### Params
+
 - **Object** `from`: The source object.
 - **Object** `to`: The target object.
 - **Number** `count`: How many frames to generate.
@@ -99,6 +106,7 @@ Builts the array of frames.
 Sets the step function. This function will be called every time when the animation changes.
 
 #### Params
+
 - **Function** `fn`: The step function.
 
 #### Return
@@ -108,6 +116,7 @@ Sets the step function. This function will be called every time when the animati
 Sets the animation duration.
 
 #### Params
+
 - **Number** `duration`: The animation duration (milliseconds).
 
 #### Return
@@ -119,6 +128,7 @@ Starts the animation.
 **TODO** This currently uses setInterval because `raf` didn't work as expected.
 
 #### Params
+
 - **Function** `fn`: The complete function.
 
 #### Return
