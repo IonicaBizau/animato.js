@@ -12,7 +12,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save animato
+# Using npm
+npm install --save animato
+
+# Using yarn
+yarn add animato
 ```
 
 
