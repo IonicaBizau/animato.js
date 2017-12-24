@@ -1,6 +1,6 @@
 {
   "name": "animato",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "description": "Simple way to animate anything (even simple values).",
   "main": "lib/index.js",
   "directories": {
