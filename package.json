@@ -1,6 +1,6 @@
 {
   "name": "animato",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "description": "Simple way to animate anything (even simple values).",
   "main": "lib/index.js",
   "directories": {
@@ -44,6 +44,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
